@@ -1,1 +1,5 @@
 /* you can add any styles you think could improve user's experience */
+.message {
+    background-color: lightgreen;
+    display: inline;
+}
